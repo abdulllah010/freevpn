@@ -2,7 +2,7 @@
 
 ## SCREEN SHOTS!!
 
-![new1](https://user-images.githubusercontent.com/81155650/113510489-b8902280-9578-11eb-876e-4cec41cd24b7.png)
+![see](https://user-images.githubusercontent.com/81155650/113511014-4240ef80-957b-11eb-865e-a7adf76c7a16.png)
 
 ![new2](https://user-images.githubusercontent.com/81155650/113510498-d067a680-9578-11eb-8634-6d5507da09bc.png)
 
@@ -32,4 +32,4 @@ PASSWORD : 23DHa92
 ### CONNECT WITH ME :
 
 
-[![Github](https://img.shields.io/badge/Github-LINUX--SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
+[![Github](https://img.shields.io/badge/Github-LINUX SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
