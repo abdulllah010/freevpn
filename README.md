@@ -32,4 +32,4 @@ PASSWORD : 23DHa92
 ### CONNECT WITH ME :
 
 
-[![Github](https://img.shields.io/badge/Github-LINUX SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
+[![Github](https://img.shields.io/badge/Github-LINUX-SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
