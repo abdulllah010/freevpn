@@ -35,7 +35,7 @@ clear
 echo -e "\e[1;32m"
 rm *.xxx >/dev/null 2>&1
 echo "USERNAME : vpnbook "
-echo "PASSWORD : 23DHa92 "
+echo "PASSWORD : s3tncx6 "
 rm *.xxx >/dev/null 2>&1
 exit
 clear
