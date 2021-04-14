@@ -10,10 +10,6 @@
 
 ![new4](https://user-images.githubusercontent.com/81155650/113510526-f5f4b000-9578-11eb-8dbd-791a6fb7dc08.png)
 
-### NOTE :
-
- If you use any part from this code then give me the credits
-
 ### TESTED ON :
 
  Kali Linux
@@ -26,10 +22,17 @@ $ cd freevpn
 $ bash freevpn.sh
 
 USERNAME : vpnbook
-PASSWORD : 23DHa92
+PASSWORD : s3tncx6
 
 ```
+
+### NOTE :
+
+ If you use any part from this code then give me the credits
+
+
 ### CONNECT WITH ME :
 
-
 [![Github](https://img.shields.io/badge/Github-LINUX--SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
+
+<a href="https://www.youtube.com/channel/UCQ2pT_4sAch7AZjhYgOmv3g"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Linux Specialist-red?style=for-the-badge&logo=Youtube"></a>
