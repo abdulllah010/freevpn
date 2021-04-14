@@ -25,7 +25,6 @@ USERNAME : vpnbook
 PASSWORD : s3tncx6
 
 ```
-
 ### NOTE :
 
  If you use any part from this code then give me the credits
